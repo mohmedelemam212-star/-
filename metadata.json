@@ -1,0 +1,7 @@
+{
+  "name": "نور الإسلام - Noor Al-Islam",
+  "description": "تطبيق إسلامي شامل يضم مواقيت الصلاة، القبلة، القرآن الكريم، قصص نبوية، وسبحة إلكترونية.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
